@@ -1,0 +1,15 @@
+{
+  "name": "neural-forge-9705",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5977,
+    "createdAt": "2026-09-03T15:34:39.623Z"
+  }
+}
